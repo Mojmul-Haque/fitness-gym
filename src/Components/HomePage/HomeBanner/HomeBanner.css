@@ -1,0 +1,44 @@
+.banner-part {
+  background: url("../../../images//bannerbg.jpg") no-repeat center;
+  background-size: cover;
+}
+.banner-main {
+  padding: 130px 0 0px;
+}
+
+.banner-content {
+  padding: 155px 0 0;
+}
+
+.all-btn {
+  font-size: 16px;
+  color: #333;
+  height: 48px;
+  padding: 0 16px;
+  background: #fff;
+  transition: all linear 0.3s;
+  line-height: 48px;
+  font-family: "Roboto";
+}
+.all-btn:hover {
+  background: #fb5b21;
+  color: #fff;
+}
+
+.banner-content h1 {
+  font-size: 22px;
+}
+
+.banner-content h1 span {
+  font-size: 58px;
+}
+
+p {
+  font-size: 15px;
+  line-height: 26px;
+  color: #666666;
+}
+
+.social-icon {
+  margin: 15px 0 15px;
+}

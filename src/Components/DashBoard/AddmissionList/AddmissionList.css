@@ -1,0 +1,91 @@
+.addmisionList {
+  margin: 25px 0 40px 40px;
+}
+.form-heading {
+  margin: 0px 0 35px;
+  padding-bottom: 6px;
+  background: #fb5b21;
+  padding: 11px 18px;
+  box-shadow: 0 4px 3px #0000006b;
+}
+.table-heading th {
+  font-size: 16px;
+  text-align: center;
+  background: #ff650b;
+  padding: 16px 4px;
+  color: #fff;
+  border: 0;
+}
+
+.table-rowse td,
+.table-rowse th {
+  padding: 20px 0;
+  text-align: center;
+  font-weight: 500;
+}
+.statusBtn-ongoing {
+  color: #fff;
+  background: #caaa11;
+}
+.statusBtn-Done {
+  color: #fff;
+  background: #0f7103;
+}
+.statusBtn-pending {
+  color: #fff;
+  background: #8a0d0d;
+}
+
+.addmisionList .btn {
+  width: 102px;
+  height: 42px;
+  line-height: 42px;
+  padding: 0 !important;
+}
+
+.btn:hover {
+  color: #fff;
+}
+
+/* .courseStatus {
+  padding: 12px 0 0;
+} */
+
+.dropdown-status {
+  position: absolute;
+  right: -106px;
+  top: 18px;
+  display: none;
+  width: 138px;
+  background: #000000cc;
+  padding: 12px 0;
+}
+
+.dropdown-status .btn {
+  margin: 6px 0 3px 18px;
+}
+
+.courseStatus:hover .dropdown-status {
+  display: block;
+}
+
+.manage-btn .btn {
+  width: 48px;
+  height: 35px;
+}
+
+.updatedBtn {
+  margin: 27px 0 0 !important;
+  width: 78px !important;
+  height: 36px !important;
+}
+
+.addmisionList input {
+  padding: 2px 2px;
+  margin: 6px 0;
+}
+.addmisionList input::placeholder {
+  font-size: 15px;
+  color: #d3d3d3;
+  font-weight: 500;
+}

@@ -1,0 +1,30 @@
+.tesi-main .img {
+  width: 60px;
+  height: 60px;
+}
+
+.tesi-main .img img {
+  border-radius: 50%;
+}
+.tesi-text {
+  padding: 15px 0 0 16px;
+}
+
+.tesi-main p {
+  padding: 10px 0 0;
+}
+.tesi-main {
+  margin: 0 0 50px;
+}
+
+.reviewStar svg {
+  color: #ffac0c;
+  margin: 0 2px;
+}
+
+.testimonial-part{
+    padding:90px 0;
+}
+.testimonial-part .section-title{
+    padding:0 0 40px;
+}

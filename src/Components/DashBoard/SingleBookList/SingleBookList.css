@@ -1,0 +1,13 @@
+.done {
+  background: green;
+  padding: 7px 16px;
+}
+
+.pending {
+  background: red;
+  padding: 7px 16px;
+}
+.ongoing {
+  background: rgb(214, 214, 3);
+  padding: 7px 16px;
+}

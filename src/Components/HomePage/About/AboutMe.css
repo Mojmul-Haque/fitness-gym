@@ -1,0 +1,51 @@
+.brand-color {
+  color: #fb5b21;
+}
+
+.about-part {
+  padding: 90px 0;
+}
+
+.show-card {
+  margin-top: 30px;
+  transition: all linear 0.3s;
+  text-align: center;
+  padding: 16px 0;
+}
+
+.show-card .icon {
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  background: #fb5b21;
+  line-height: 40px;
+}
+
+.show-card .icon svg {
+  color: #fff;
+}
+.show-card h5 {
+  font-size: 25px;
+}
+
+.icon-text p {
+  margin-top: -10px;
+  margin-left: 15px;
+}
+
+.show-card:hover {
+  background: #fb5b21;
+  transform: scale(1.02);
+  border-color: transparent;
+}
+
+.show-card:hover .icon {
+  background: #fff;
+}
+.show-card:hover svg {
+  color: #fb5b21;
+}
+.show-card:hover h5,
+.show-card:hover p {
+  color: #fff;
+}

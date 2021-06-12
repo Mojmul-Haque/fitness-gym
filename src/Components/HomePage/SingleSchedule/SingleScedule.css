@@ -1,0 +1,61 @@
+.class-name {
+  font-size: 18px;
+  font-family: "Lato", sans-serif;
+  color: #000;
+  font-style: italic;
+  background-color: #abc502;
+  padding: 15px 30px;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+a,
+li,
+ul,
+span {
+  margin: 0;
+  padding: 0;
+}
+
+.date-time span svg {
+  color: #fb5b21;
+}
+.class-schedule {
+  padding: 90px 0 0;
+}
+.class-schedule .section-title {
+  padding: 0px 0 50px;
+}
+.main-schedule .img {
+  overflow: hidden;
+}
+.main-schedule:hover img {
+  transition: all linear 0.3s;
+}
+.main-schedule:hover img {
+  transform: scale(1.05);
+}
+
+.course-fee {
+  position: absolute;
+  left: -21px;
+  bottom: 102px;
+  padding: 10px 20px;
+  background: #fb5b21;
+  transform: skew(-29deg);
+}
+
+.course-fee h5 {
+  transform: skew(29deg);
+  font-size: 16px;
+}
+
+.addCourseBtn {
+  display: block;
+  background: #fb5b21 !important;
+}

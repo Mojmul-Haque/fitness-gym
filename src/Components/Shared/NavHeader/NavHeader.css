@@ -1,0 +1,16 @@
+.main-menu .navbar-nav li .nav-link {
+  font-size: 15px;
+  font-weight: 600;
+  line-height: 21px;
+  color: #ffffff;
+  margin: 0 8px;
+  transition: all linear .3s;
+}
+
+.main-menu{
+    background:rgb(12 17 20);
+}
+
+.main-menu .navbar-nav li .nav-link:hover {
+  color: #fb5b21;
+}

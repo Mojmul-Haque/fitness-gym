@@ -1,0 +1,26 @@
+.add-review input {
+  height: 50px;
+  border: 2px solid #d3d3d3;
+}
+.add-review input:focus,
+.add-review textarea:focus {
+  border-color: #fb5b21;
+  box-shadow: none;
+}
+
+.add-review input::placeholder,
+.add-review textarea::placeholder {
+  font-size: 18px;
+  color: #b2b2b2;
+}
+.add-review textarea {  
+  height: 140px;
+  resize: none;
+}
+
+.add-review {
+  margin: 36px 0 60px;
+}
+.add-review .all-btn {
+  margin: 22px 0 0 !important;
+}

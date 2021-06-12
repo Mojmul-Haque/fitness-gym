@@ -1,0 +1,25 @@
+.side-nav {
+  background: #181818;
+  height: 100%;
+  /* margin: -6px 0 0; */
+}
+
+.sideNav-menu a {
+  color: #b2b2b2;
+  font-size: 18px;
+  margin: 6px 0 0;
+  padding: 10px 0;
+  text-transform: uppercase;
+  transition: all linear 0.3s;
+}
+
+
+
+.sideNav-menu a:hover {
+  background: #fb5b21;
+  color: #fff;
+}
+
+.sideNav-menu {
+  padding: 65px 0;
+}

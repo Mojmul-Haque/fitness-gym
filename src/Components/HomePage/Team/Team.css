@@ -1,0 +1,22 @@
+/* .trainer-details .trainer-img img {
+  width: 250px;
+  height: 250px;
+  border-radius: 50%;
+} */
+.team-part {
+  padding: 0 0 90px;
+}
+.team-part p {
+  padding: 20px 358px 0;
+}
+/* .trainer-details .trainer-img */
+.trainer-details {
+  padding: 40px 0 0;
+}
+
+.social-meidia a {
+  margin: 0 10px;
+  display: inline-block;
+  color: #fb5b21;
+  font-size: 18px;
+}

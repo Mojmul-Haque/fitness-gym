@@ -1,0 +1,78 @@
+[
+    {
+        "id":1,
+        "day":"satarday",
+        "exerciseName":"Meditation",
+        "trainerName":"David Fahim",
+        "time":"6:00 am -8:00 am",
+        "addMissionFee":1200,
+        "monthlyPay":700
+    },
+    {
+        "id":2,
+        "day":"sunday",
+        "exerciseName":"Yoga",
+        "trainerName":"Sultan Mahamud",
+        "time":"12:00 pm -1:00 pm",
+        "addMissionFee":1400,
+        "monthlyPay":900
+    },
+
+    {
+        "id":3,
+        "day":"monday",
+        "exerciseName":"Cycling",
+        "trainerName":"Rasel Sorkar",
+        "time":"6:00 am -8:00 am",
+        "addMissionFee":4500,
+        "monthlyPay":1300
+    },
+    {
+        "id":4,
+        "day":"tuesday",
+        "exerciseName":"Running",
+        "trainerName":"Sabbir Rahman",
+        "time":"4:00 am -6:00 am",
+        "addMissionFee":1800,
+        "monthlyPay":1000
+    },
+    {
+        "id":5,
+        "day":"wednesday",
+        "exerciseName":"Martial Arts",
+        "trainerName":"Mustakim Rahman",
+        "time":"11:00 am -1:00 pm",
+        "addMissionFee":2100,   
+        "monthlyPay":900
+    },
+    {
+        "id":6,
+        "day":"thursday",
+        "exerciseName":"Body Building",
+        "trainerName":"Monir Hossain",
+        "time":"7:00 am -9:00 am",
+        "addMissionFee":1200,
+        "monthlyPay":700
+    },
+    {
+        "id":7,
+        "day":"friday",
+        "exerciseName":"Meditation",
+        "trainerName":"David Fahim",
+        "time":"6:00 pm -8:00 pm",
+        "addMissionFee":1500,
+        "monthlyPay":600
+    },
+    
+    {
+        "id":8,
+        "day":"friday",
+        "exerciseName":"Body Building",
+        "trainerName":"Monir Hossain",
+        "time":"7:00 am -9:00 am",
+        "addMissionFee":1200,
+        "monthlyPay":700
+    }
+    
+    
+]

@@ -1,0 +1,241 @@
+@media (min-width: 1200px) {
+}
+
+@media (min-width: 992px) and (max-width: 1199px) {
+  .banner-content {
+    padding: 97px 0 17px;
+  }
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+  .about-part {
+    padding: 0px 0;
+  }
+  .banner-main {
+    padding: 59px 0 0px;
+  }
+  .banner-content {
+    padding: 0 0 17px;
+  }
+  .about-part {
+    padding: 44px 0;
+  }
+  .team-part p {
+    padding: 20px 38px 0;
+  }
+}
+@media (min-width: 576px) and (max-width: 767px) {
+  .main-menu .navbar-nav li .nav-link {
+    text-align: center;
+  }
+  .banner-main {
+    padding: 36px 0 0px !important;
+  }
+
+  .main-menu {
+    background: rgb(12 17 20);
+    border-bottom: 2px solid #fff;
+  }
+  .navbar-light .navbar-toggler {
+    border-color: rgba(0, 0, 0, 0.1);
+    background: #fff;
+  }
+  .banner-main .offset-2 {
+    margin-left: 0 !important;
+  }
+
+  .banner-content {
+    padding: 91px 0 55px;
+  }
+
+  .banner-content h1 span {
+    font-size: 35px;
+    color: #fb5b21;
+  }
+
+  .all-btn {
+    font-size: 14px;
+    height: 44px;
+    padding: 0 7px;
+    line-height: 44px;
+    border-radius: 0;
+  }
+
+  .banner-content h6 {
+    margin: 0 0 30px;
+  }
+
+  /* about  */
+  .about-part {
+    padding: 50px 0;
+  }
+  .about-text {
+    padding: 0 0 10px;
+  }
+
+  .about-img {
+    padding: 20px 0 20px;
+  }
+  .icon-text {
+    padding: 17px 12px 15px;
+  }
+  /* class schedulle */
+  .class-schedule {
+    padding: 50px 0 0;
+  }
+
+  .course-fee {
+    bottom: 162px;
+  }
+  .main-schedule {
+    margin: 0 0 30px;
+  }
+  .main-schedule .all-btn {
+    margin: -17px 0 0;
+  }
+
+  /* reviww */
+  .testimonial-part {
+    padding: 35px 0;
+  }
+  .team-part p {
+    padding: 20px 18px 0;
+  }
+  .trainer-details {
+    padding: 30px 0 0;
+  }
+
+  .team-part {
+    padding: 0 0 40px;
+  }
+  /* footer */
+  .footer-part {
+    background-color: #121212;
+    padding: 40px 0 40px;
+  }
+
+  .social-icon {
+    margin: 20px 0 20px;
+  }
+  .newsLetter {
+    margin: 15px 0;
+  }
+  .flicker-photos {
+    margin: 8px 0 18px;
+  }
+}
+
+@media (min-width: 376px) and (max-width: 575px) {
+  .banner-main {
+    padding: 70px 0 0px !important;
+  }
+  .banner-content {
+    left: 70px !important;
+    top: 427px !important;
+  }
+  .banner-content h1 span {
+    font-size: 50px !important;
+  }
+  .course-fee {
+    bottom: 102px !important;
+  }
+}
+
+@media (max-width: 575px) {
+  .main-menu .navbar-nav li .nav-link {
+    text-align: center;
+  }
+  .main-menu {
+    background: rgb(12 17 20);
+    border-bottom: 2px solid #fff;
+  }
+  .navbar-light .navbar-toggler {
+    border-color: rgba(0, 0, 0, 0.1);
+    background: #fff;
+  }
+  .banner-main .offset-2 {
+    margin-left: 0 !important;
+  }
+
+  .banner-content {
+    padding: 0;
+    position: absolute;
+    left: 36px;
+    top: 242px;
+  }
+  .banner-main {
+    padding: 30px 0 0px;
+  }
+  .banner-content h1 span {
+    font-size: 31px;
+    color: #fb5b21;
+  }
+
+  .all-btn {
+    font-size: 14px;
+    height: 44px;
+    padding: 0 7px;
+    line-height: 44px;
+    border-radius: 0;
+  }
+
+  .banner-content h6 {
+    margin: 0 0 30px;
+  }
+
+  /* about  */
+  .about-part {
+    padding: 50px 0;
+  }
+  .about-text {
+    padding: 0 0 10px;
+  }
+
+  .about-img {
+    padding: 20px 0 20px;
+  }
+  /* class schedulle */
+  .class-schedule {
+    padding: 50px 0 0;
+  }
+  .course-fee {
+    bottom: 121px;
+  }
+
+  .main-schedule {
+    margin: 0 0 30px;
+  }
+  .main-schedule .all-btn {
+    margin: -17px 0 0;
+  }
+
+  /* reviww */
+  .testimonial-part {
+    padding: 35px 0;
+  }
+  .team-part p {
+    padding: 20px 18px 0;
+  }
+  .trainer-details {
+    padding: 30px 0 0;
+  }
+
+  .team-part {
+    padding: 0 0 40px;
+  }
+  /* footer */
+  .footer-part {
+    background-color: #121212;
+    padding: 40px 0 40px;
+  }
+
+  .social-icon {
+    margin: 20px 0 20px;
+  }
+  .newsLetter {
+    margin: 15px 0;
+  }
+  .flicker-photos {
+    margin: 8px 0 18px;
+  }
+}
